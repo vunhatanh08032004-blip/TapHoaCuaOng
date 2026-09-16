@@ -1,0 +1,6 @@
+{
+  "name": "Hongguo Downloader",
+  "description": "Tạp Hóa Của Ong - Trình tải hàng loạt phim ngắn Hồng Quả kèm ảnh bìa phim, tự động giải mã AES-128 CENC không watermark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
